@@ -1,6 +1,6 @@
 # Consumo-de-combustivel-PHP
 
-## Utilizando:
+## Utilizando
 
 - HTML 
 - Formulários
