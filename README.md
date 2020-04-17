@@ -1,14 +1,16 @@
-# Consumo-de-combustivel-PHP
+# Consumo-de-combustivel-PHP ⛽️ 
 
-## Utilizando
-
+## Utilizando:
 - HTML 
 - Formulários
 - CSS
 - PHP
 
-## Método
+## Método:
 $_POST
 
+## Imagens do sistema 📷
 ![](Inicial.JPG)
 ![](Resultado.JPG)
+
+
